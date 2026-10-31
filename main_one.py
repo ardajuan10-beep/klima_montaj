@@ -1846,8 +1846,8 @@ class watsapp_message:
                     # one_message_attempt = True
                     message = self.__prepare_watsapp_message_for_one_slot(slot, day)
                     full_message = full_message + message + "\n-------------------------\n\n"
-                    # account_sid = 'AC386703f3ed30ce94bcc869ad46de13d8'
-                    # auth_token = '0f44da3dce82e097f4fda3190f4ac14d'
+                    # account_sid = 'xxxx'
+                    # auth_token = 'xxxx'
                     # client = Client(account_sid, auth_token)
                     # print(message)
                     # try:
@@ -1901,8 +1901,8 @@ class watsapp_message:
                     #one_message_attempt = True
                     message = self.__prepare_watsapp_message_for_one_slot(slot, day)
                     full_message = full_message + message + "\n-------------------------\n\n"
-                    #account_sid = 'AC386703f3ed30ce94bcc869ad46de13d8'
-                    #auth_token = '0f44da3dce82e097f4fda3190f4ac14d'
+                    #account_sid = 'xxx'
+                    #auth_token = 'xxx'
                     #client = Client(account_sid, auth_token)
                     #print(message)
                     #try:
